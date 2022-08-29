@@ -1,7 +1,9 @@
-#photo {
-    display: none;
-}
-#damn {
+#zuragNeg {
     width: 300px;
-    height: auto;
+    cursor: pointer;
+}
+#zuragHoyr {
+    display: none;
+    width: 300px;
+    cursor: pointer;
 }
